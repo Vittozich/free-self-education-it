@@ -3,5 +3,8 @@
   "spellcheckLanguages": [
     "en-GB",
     "ru"
-  ]
+  ],
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
