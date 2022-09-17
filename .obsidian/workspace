@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Самообразование/Todo план развития.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Самообразование/Todo план развития.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Самообразование/Todo план развития.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Самообразование/Todo план развития.md"
               }
             }
           }
@@ -132,10 +132,10 @@
   "active": "e9f79bf855822978",
   "lastOpenFiles": [
     "CONTRIBUTING.md",
-    "README.md",
+    "Самообразование/Todo план развития.md",
     "Самообразование/Английский язык.md",
     "Самообразование/Основы программирования.md",
-    "Самообразование/Todo план развития.md",
+    "README.md",
     "Самообразование/Todo.md",
     "Todo.md",
     "Самообразование.md"
